@@ -4,3 +4,4 @@
 
 # Exclude saved models parameters
 *.pt
+data/
