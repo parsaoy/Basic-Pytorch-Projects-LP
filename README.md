@@ -9,4 +9,4 @@
 ## Projects:
 
 ### 1. Iris Classifier Model with Simple NN
-### 
+### 2. CNN Model Classifer on MNIST Dataset
