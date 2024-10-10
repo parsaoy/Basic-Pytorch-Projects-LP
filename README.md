@@ -1,4 +1,4 @@
-# Learning Projects with Pytorch.
+# Learning Projects using Pytorch and Tensorflow.
 > ## Note: These projects are labels as **Learning Projects**
 
 ## Resources
